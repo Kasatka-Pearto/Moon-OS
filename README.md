@@ -65,9 +65,10 @@ Moon-OS/
 - [x] Calculator application
 - [x] Basic file operations
 - [x] System information
-- [ ] Improved Notepad
 - [ ] Clock application
-- [ ] Application manager
+- [ ] Calendar application
+- [ ] File system
+- [ ] Users
 - [ ] Configuration system
 - [ ] Improved error handling
 
