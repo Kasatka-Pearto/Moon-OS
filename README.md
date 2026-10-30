@@ -24,6 +24,16 @@ Moon OS is a personal C++ project, designed to simulate the real work of OS thro
 | `exit` | Shut downs Moon OS |
 | `calc` | Launches calculator app |
 | `notepad` | Launches notepad app |
+| `clock` | Displays local time |
+| `calendar` | Displays date |
+| `ls`       | Lists files and directories in the current directory |
+| `cd`       | Changes the current directory to the specified path |
+| `pwd`      | Shows the current directory |
+| `touch`    | Creates a file |
+| `rm`       | Removes a file |
+| `cat`      | Reads the text in a file |
+| `mkdir`    | Creates a directory |
+| `rmdir`    | Removes a directory |
 
 ## 🚀 Getting Started
 
